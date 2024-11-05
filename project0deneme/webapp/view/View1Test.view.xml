@@ -7,7 +7,7 @@
 			expanded="{device>/isNoPhone}"
 			class="sapUiResponsiveContentPadding">
 			<items>
-				<IconTabFilter id="_IDGenIconTabFilter1" icon="sap-icon://hint" key="info">
+				<IconTabFilter id="_IDGenIconTabFilter1" icon="sap-icon://paging" text="{i18n>yon}" key="info">
 					<VBox id="_IDGenVBox1">
 						<Panel id="_IDGenPanel" headerText="Reverse, horizontal">
 							<FlexBox id="_IDGenFlexBox" direction="RowReverse" alignItems="Start">

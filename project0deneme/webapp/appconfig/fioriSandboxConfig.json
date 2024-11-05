@@ -1,0 +1,27 @@
+{
+    "services": {
+        "LaunchPage": {
+            "adapter": {
+                "config": {
+                    "groups": [
+                        {
+                            "id": "default-group",
+                            "title": "Default Group",
+                            "tiles": [
+                                {
+                                    "id": "myApp",
+                                    "title": "My Application",
+                                    "size": "1x1",
+                                    "tileType": "sap.ushell.ui.tile.StaticTile",
+                                    "properties": {
+                                        "targetURL": "#Project0Deneme-display"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
